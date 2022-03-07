@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phamhoanghai
-- 🌱 I’m currently learning java(android) , kotlin(android) , c#(xamarin forms)
+- 🌱 I’m currently learning java(android) , kotlin(android) , c#(xamarin forms), flutter
 - 📫 How to reach me : hamtube9@gmail.com
 
 <!---
